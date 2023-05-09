@@ -50,12 +50,12 @@ global.APIKeys = { // APIKey Here
 global.botname = 'Mahmoud-ʙᴏᴛ'
 global.premium = 'true'
 global.packname = 'Mahmoud Nasr┃ᴮᴼᵀ' 
-global.author = '@SANDARU' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.author = '@Mahmoud' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/mody_m.a.n1\n' 
+global.dygp = 'https://chat.whatsapp.com/EypXEN7ZAVD0Evqgiro6E3'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fgyt = 'https://youtube.com/'
+global.fgpyp = 'https://youtube.com/'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
